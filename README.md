@@ -8,8 +8,9 @@ Keep the list alphabetical by surname.
 
 | Name | Github | Personal Site |
 | :--- | :----- | :------------ |
-| Jennifer Apacible | [japacible](https://github.com/japacible) | |
+| Jennifer Apacible | [japacible](https://github.com/japacible) | [japacible.gh](http://japacible.github.io/) |
 | Amit Burstein | [amitburst](https://github.com/amitburst) | |
+| Stefan Dierauf | [sdierauf](https://github.com/sdierauf) | |
 | Ryan Drapeau | [rdrapeau](https://github.com/rdrapeau) | |
 | Katlyn Edwards | [katlyn-edwards](https://github.com/katlyn-edwards) | |
 | Ben Eggers | [BenedictEggers](https://github.com/BenedictEggers) | |
@@ -17,6 +18,7 @@ Keep the list alphabetical by surname.
 | Nathaniel Guy | [nattybumppo](https://github.com/nattybumppo) | |
 | Mahir Kothary | [mahirk](https://github.com/mahirk) | |
 | Aengus Mcmillin | [wizecoder](https://github.com/wizecoder) | |
+| Dominik Moritz | [domoritz](https://github.com/domoritz) | |
 | Aaron Nech | [aaronnech](https://github.com/aaronnech) | |
 | Ty Overby | [TyOverby](https://github.com/TyOverby) | |
 | Christina Quan| [quanc](https://github.com/quanc) | |
