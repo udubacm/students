@@ -15,7 +15,7 @@ Keep the list alphabetical by surname. CSE alumni welcome!
 | Sunjay Cauligi | [sunjayc](https://github.com/sunjayc) | |
 | Jolie Chen | [omjolie](https://github.com/omjolie) | |
 | Kevin Chiu | [kevinchiu](https://github.com/kevinchiu) | |
-| Stefan Dierauf | [sdierauf](https://github.com/sdierauf) | |
+| Stefan Dierauf | [sdierauf](https://github.com/sdierauf) | [stfn.me](http://stfn.me) |
 | Ryan Drapeau | [rdrapeau](https://github.com/rdrapeau) | |
 | Ben Du | [bendu](https://github.com/bendu) | |
 | Katlyn Edwards | [katlyn-edwards](https://github.com/katlyn-edwards) | |
