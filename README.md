@@ -23,7 +23,7 @@ Keep the list alphabetical by surname.
 | Christopher Su | [csu](https://github.com/csu) | |
 | David Swanson | [swansond](https://github.com/swansond) | |
 | Grant Timmerman | [grant](https://github.com/grant) | [grant.cm](http://www.grant.cm/) |
-| Rukmal Weerawarana | [rukmal](https://github.com/rukmal) | |
+| Rukmal Weerawarana | [rukmal](https://github.com/rukmal) |[rukmal.me](http://rukmal.me/)|
 | Tariq Yusuf | [tariqajyusuf](https://github.com/tariqajyusuf) | |
 
 ## Projects
