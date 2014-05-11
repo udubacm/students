@@ -14,7 +14,7 @@ Keep the list alphabetical by surname.
 | Ryan Drapeau | [rdrapeau](https://github.com/rdrapeau) | |
 | Katlyn Edwards | [katlyn-edwards](https://github.com/katlyn-edwards) | |
 | Ben Eggers | [BenedictEggers](https://github.com/BenedictEggers) | |
-| Karan Goel | [karan](https://github.com/karan) | |
+| Karan Goel | [karan](https://github.com/karan) | [goel.im](http://www.goel.im) |
 | Nathaniel Guy | [nattybumppo](https://github.com/nattybumppo) | |
 | Mahir Kothary | [mahirk](https://github.com/mahirk) | |
 | Aengus Mcmillin | [wizecoder](https://github.com/wizecoder) | |
