@@ -3,7 +3,7 @@ UW ACM Students
 Submit a pull request to add to the list. 
 
 ## Students
-Keep the list alphabetical by surname. CSE alumni welcome!
+Keep the list alphabetical by surname. CSE alumni welcome!  
 `| Name | [Github](url) | [Personal Site](url) |`
 
 | Name | Github | Personal Site |
