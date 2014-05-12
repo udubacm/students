@@ -48,3 +48,7 @@ Keep the list alphabetical by surname. CSE alumni welcome!
 
 ## Projects
 Keep the list alphabetical by project name.
+
+| Name | Description |
+| :--- | :----- |
+| [FollowUW.py](https://github.com/csu/GitHub-Tools/blob/master/followuw.py) | A script to follow everyone listed on this page, because laziness. |
