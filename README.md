@@ -11,7 +11,7 @@ Keep the list alphabetical by surname. CSE alumni welcome!
 | Christopher Apacible | [ChrisApacible](https://github.com/ChrisApacible) | |
 | Jennifer Apacible | [japacible](https://github.com/japacible) | [japacible.gh](http://japacible.github.io/) |
 | Brett Boston | [bboston7](https://github.com/bboston7) | |
-| Amit Burstein | [amitburst](https://github.com/amitburst) | |
+| Amit Burstein | [amitburst](https://github.com/amitburst) | [amitburst.me](http://amitburst.me) |
 | Sunjay Cauligi | [sunjayc](https://github.com/sunjayc) | |
 | Jolie Chen | [omjolie](https://github.com/omjolie) | |
 | Kevin Chiu | [kevinchiu](https://github.com/kevinchiu) | |
