@@ -16,7 +16,9 @@ Keep the list alphabetical by surname. CSE alumni welcome!
 | Jolie Chen | [omjolie](https://github.com/omjolie) | |
 | Kevin Chiu | [kevinchiu](https://github.com/kevinchiu) | |
 | Stefan Dierauf | [sdierauf](https://github.com/sdierauf) | [stfn.me](http://stfn.me) |
+| Brian Donohue | [Venture-](https://github.com/Venture-) | |
 | Ryan Drapeau | [rdrapeau](https://github.com/rdrapeau) | |
+| Julie Brodhacker | [jbrodhacker](https://github.com/jbrodhacker) | |
 | Ben Du | [bendu](https://github.com/bendu) | |
 | Katlyn Edwards | [katlyn-edwards](https://github.com/katlyn-edwards) | |
 | Ben Eggers | [BenedictEggers](https://github.com/BenedictEggers) | |
@@ -24,10 +26,12 @@ Keep the list alphabetical by surname. CSE alumni welcome!
 | Nathaniel Guy | [nattybumppo](https://github.com/nattybumppo) | |
 | Pingyang He | [isphrazy](https://github.com/isphrazy) | |
 | Vimala Jampala | [vjampala](https://github.com/vjampala/) | |
+| Kenny Corman | [kcorman](https://github.com/kcorman) | |
 | Mahir Kothary | [mahirk](https://github.com/mahirk) | |
 | Wilson Lee | [kourge](https://github.com/kourge) | |
 | Scottie Lim | [senghuot](https://github.com/senghuot) | |
 | Geoffrey Liu | [g-liu](https://github.com/g-liu) | |
+| Daniel Luna | [danluna](https://github.com/danluna) | |
 | David Mah | [DavidMah](https://github.com/DavidMah) | |
 | Mallika Mathur | [mkmathur](https://github.com/mkmathur) | |
 | Aengus Mcmillin | [wizecoder](https://github.com/wizecoder) | |
