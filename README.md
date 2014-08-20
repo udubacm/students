@@ -41,7 +41,7 @@ Keep the list alphabetical by surname. CSE alumni welcome!
 | Richard Pan | [richardpan](https://github.com/richardpan) | |
 | Christina Quan| [quanc](https://github.com/quanc) | |
 | Max Sherman | [johnislarry](https://github.com/johnislarry) | |
-| Christopher Su | [csu](https://github.com/csu) | [christophersu.net](http://christophersu.net/) |
+| Christopher Su | [csu](https://github.com/csu) | [christopher.su](http://christopher.su) |
 | David Swanson | [swansond](https://github.com/swansond) | |
 | Grant Timmerman | [grant](https://github.com/grant) | [grant.cm](http://www.grant.cm/) |
 | Tim Vega | [t101jv](https://github.com/t101jv) | |
